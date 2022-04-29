@@ -1,0 +1,9 @@
+{
+  "name": "scripts",
+  "version": "0.0.1",
+  "description": "show \"scripts\" in package.json",
+  "bin": "./index.js",
+  "repository": "https://github.com/minoritea/scripts",
+  "author": "Minori Tokuda",
+  "license": "CC0-1.0"
+}
